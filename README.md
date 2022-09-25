@@ -9,7 +9,7 @@ Python SDK for Tipalti Payer/Payee Functions for v11 SOAP APIs
 ## Dependencies
 
 * Python
-* [requests](http://docs.python-requests.org/en/latest/)
+* [requests](https://pypi.org/project/requests/)
 * [bs4](https://pypi.org/project/bs4/)
 
 ## Getting Started (configuration.py)
