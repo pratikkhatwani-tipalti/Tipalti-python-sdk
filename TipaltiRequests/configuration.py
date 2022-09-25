@@ -6,8 +6,8 @@ Created on Sat Sep 24 18:08:08 2022
 """
 
 #Private key found on APHUB. Administration -> Apps -> API Key
-PayerName ="PKH_Sandbox"
-api_key = "rWp9vSkGly6MV3eEGZhWmfaYUvZtIpHcLA3NrRTszmvtoUbKTmUJOurBGKBrNCxJ"
+PayerName ="YOUR-PAYER-NAME"
+api_key = "YOUR-API-KEY"
 
 #Sandbox URLs
 payee_url = "https://api.sandbox.tipalti.com/v11/PayeeFunctions.asmx"
